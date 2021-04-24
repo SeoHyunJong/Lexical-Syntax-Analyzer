@@ -3,10 +3,10 @@ CAUCSE 2021
 
 Specifying Tokens
 
-TOKEN NAME	REGULAR EXPRESSION
-INT	int
-CHAR	char
-BOOL	bool
+TOKEN NAME	REGULAR EXPRESSION\
+INT	int\
+CHAR	char\
+BOOL	bool\
 STRING	String
 INTEGER	0|(-|e)(PositiveDigit*)
 Positive = 1|2|3|…|9

@@ -1,11 +1,8 @@
-ID  public
 CLASS
 ID  MyClass
 LBRACE
-ID  public
-ID  static
-ID  void
-ID  main
+INT
+ID  foo
 LPAREN
 RPAREN
 LBRACE

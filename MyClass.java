@@ -1,5 +1,5 @@
-public class MyClass {
-    public static void main() {
+class MyClass {
+    int foo() {
         int a = -123;
         boolean abc_123 = true;
         char c = '1';

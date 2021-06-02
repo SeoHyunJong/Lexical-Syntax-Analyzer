@@ -11,7 +11,7 @@ ID  a
 ASSIGN
 INTEGER  -123
 SEMI
-ID  boolean
+BOOL
 ID  abc_123
 ASSIGN
 BOOLEAN  true
